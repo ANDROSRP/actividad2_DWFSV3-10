@@ -1,0 +1,135 @@
+.contenedor-perfilb{
+    width: 1000px;
+    height: 300px;
+    display: flex;
+    background-color: rgb(203, 142, 44);
+    margin: 10px 10px 30px;
+    justify-content: center;
+  }
+  
+  .imagen-perfilb{
+    height: 187px;
+    width: 187px;
+    margin: 55px 10px;
+    
+  }
+  
+  .contenedor-texto-perfilb{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+    padding-bottom: 25px;
+  }
+  
+  .nombre-perfilb{
+    font-size: 2 rem;
+  }
+  
+  .cargo-perfilb{
+    font-size: 1 rem;
+    margin-top: 10px;
+  }
+  
+  .texto-perfilb{
+    font-size: 1 rem;
+    text-align: justify;
+    margin-left: 10px;
+  }
+
+  .centeredb {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+  }
+
+  .contenedor-perfild{
+    width: 1000px;
+    height: 300px;
+    display: flex;
+    background-color: rgb(203, 142, 44);
+    margin: 10px 10px 30px;
+    justify-content: center;
+  }
+  
+  .imagen-perfild{
+    height: 240px;
+    width: 187px;
+    margin: 30px 10px;
+  }
+  
+  .contenedor-texto-perfild{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+    padding-bottom: 25px;
+  }
+  
+  .nombre-perfild{
+    font-size: 2 rem;
+  }
+  
+  .cargo-perfild{
+    font-size: 1 rem;
+    margin-top: 10px;
+  }
+  
+  .texto-perfild{
+    font-size: 1 rem;
+    text-align: justify;
+    margin-left: 10px;
+   }
+
+   .centeredd {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 250px;
+  }
+
+  .contenedor-perfill{
+    width: 1000px;
+    height: 300px;
+    display: flex;
+    background-color: rgb(203, 142, 44);
+    margin: 10px 10px 30px;
+    justify-content: center;
+  }
+  
+  .imagen-perfill{
+    height: 234px;
+    width: 187px;
+    margin: 35px 10px;
+  }
+  
+  .contenedor-texto-perfill{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+    padding-bottom: 25px;
+  }
+  
+  .nombre-perfill{
+    font-size: 2 rem;
+  }
+  
+  .cargo-perfill{
+    font-size: 1 rem;
+    margin-top: 10px;
+  }
+  
+  .texto-perfill{
+    font-size: 1 rem;
+    text-align: justify;
+    margin-left: 10px;
+   }
+
+   .centeredl{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+  }
