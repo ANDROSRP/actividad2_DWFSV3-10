@@ -17,6 +17,16 @@ function PerfilD(props){
                     </p>
                     <p className='texto-perfild'>"{props.perfil}" </p>
                 </div>
+                {/* Agregamos los botones para seguir en LinkedIn, YouTube y Twitter */}
+                <button onClick={() => window.open(props.wikipedia, '_blank')}>
+                    Seguir en Wikipedia
+                </button>
+                <button onClick={() => window.open(props.youtube, '_blank')}>
+                    Seguir en YouTube
+                </button>
+                <button onClick={() => window.open(props.web, '_blank')}>
+                    Seguir en Web
+                </button>
             </div>
         </div>
     );

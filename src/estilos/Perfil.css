@@ -1,9 +1,9 @@
 .contenedor-perfilb{
     width: 1000px;
-    height: 300px;
+    height: 500px;
     display: flex;
     background-color: rgb(203, 142, 44);
-    margin: 10px 10px 30px;
+    margin: 100px 100px 30px;
     justify-content: center;
   }
   
@@ -35,7 +35,21 @@
     font-size: 1 rem;
     text-align: justify;
     margin-left: 10px;
+    margin-right: 10px;
   }
+
+  button{
+    background-color: #24b5a7;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+   }
 
   .centeredb {
     display: flex;
@@ -46,10 +60,10 @@
 
   .contenedor-perfild{
     width: 1000px;
-    height: 300px;
+    height: 500px;
     display: flex;
     background-color: rgb(203, 142, 44);
-    margin: 10px 10px 30px;
+    margin: 300px 300px 30px;
     justify-content: center;
   }
   
@@ -80,21 +94,35 @@
     font-size: 1 rem;
     text-align: justify;
     margin-left: 10px;
+    margin-right: 10px;
+   }
+
+   button{
+    background-color: #24b5a7;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
    }
 
    .centeredd {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 250px;
+    height: 500px;
   }
 
   .contenedor-perfill{
     width: 1000px;
-    height: 300px;
+    height: 400px;
     display: flex;
     background-color: rgb(203, 142, 44);
-    margin: 10px 10px 30px;
+    margin: 400px 400px 30px;
     justify-content: center;
   }
   
@@ -125,6 +153,20 @@
     font-size: 1 rem;
     text-align: justify;
     margin-left: 10px;
+    margin-right: 10px;
+   }
+
+   button{
+    background-color: #24b5a7;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
    }
 
    .centeredl{
